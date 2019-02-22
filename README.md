@@ -1,2 +1,2 @@
 # best-repo-ever
-Trailhead Git module: Git &amp; GitHub Basics
+Trailhead 2nd Git module: Git &amp; GitHub Basics
